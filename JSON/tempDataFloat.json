@@ -1,0 +1,51 @@
+	  	[{
+	  	  "did": "3904000A33DD",
+	  	  "location": "Fish",
+	      "value": "10.0",
+	      "level": 2,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "did": "3904000A33DD",
+	      "location": "Meat",
+	      "value": "7.5",
+	      "level": 0,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "did": "3904000A33DD",
+	      "location": "Fruit",
+	      "value": "7.5",
+	      "level": 0,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "did": "3904000A33DD",
+	      "location": "Veg",
+	      "value": "7.5",
+	      "level": 0,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "did": "3904000A33DD",
+	      "location": "Dairy",
+	      "value": "7.5",
+	      "level": 0,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "did": "3904000A33DD",
+	      "location": "Chocolate",
+	      "value": "7.5",
+	      "level": 0,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "did": "3904000A33DD",
+	      "location": "POS",
+	      "value": "7.5",
+	      "level": 0,
+	      "timestamp" : "29-01-2019 01:56:30"
+	    }]
+
+	  

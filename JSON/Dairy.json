@@ -1,0 +1,40 @@
+	[{
+	"value": "14",
+	"timestamp": "02:00:00"
+	},
+	{
+	"value": "14",
+	"timestamp":"02:02:30"
+	},
+	{
+	"value": "9",
+	"timestamp":"02:03:30"
+	},
+	{
+	"value": "17",
+	"timestamp":"02:04:30"
+	},
+	{
+	"value": "19",
+	"timestamp":"02:05:30"
+	},
+	{
+	"value": "15",
+	"timestamp":"02:06:30"
+	},
+	{
+	"value": "11",
+	"timestamp":"02:07:30"
+	},
+	{
+	"value": "21",
+	"timestamp":"02:08:30"
+	},
+	{
+	"value": "23",
+	"timestamp":"02:09:30"
+	},
+	{
+	"value": "24",
+	"timestamp":"02:10:30"
+	}]

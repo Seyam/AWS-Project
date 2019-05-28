@@ -1,0 +1,114 @@
+Date: 21-03-2019
+
+
+openid: 1551008383
+mac= C1:AE:74:CA:88:0C
+uid = 1551008383
+lockVersion = {"showAdminKbpwdFlag":true,"groupId":10,"protocolVersion":3,"protocolType":5,"orgId":3,"logoUrl":"","scene":2}
+lockFlagPos = 0
+
+adminPs = NTYsNTYsNTgsNDgsNjMsNDksNjMsNjEsNDksNjEsMTE4 
+unlockKey = NjQsNzIsNjksNjUsNzIsNjgsNzIsNzAsNjQsNzEsMTQ=
+aesKeyArray=[dd,05,b8,ac,05,45,e1,42,ec,f3,02,9c,b2,8c,a9,ad]
+
+
+
+Date: 24-03-2019
+
+mac= C1:AE:74:CA:88:0C
+uid=1551008383
+lockVersion={"showAdminKbpwdFlag":true,"groupId":10,"protocolVersion":3,"protocolType":5,"orgId":3,"logoUrl":"","scene":2}
+lockFlagPos=0
+
+adminPs=MTIxLDEyMiwxMTMsMTIwLDEyMSwxMjIsMTIwLDEyMSwxMjMsMTIxLDU1
+unlockKey = NzcsNzIsNzgsNzIsNzIsNzUsNjgsNzksNzUsNzgsMw==
+aesKeyArray=[c7,cb,dc,71,b5,88,c2,23,94,5a,67,db,70,ba,5a,05]
+
+
+
+responseData:{"access_token":"eb614a44cc92ba33afe1d81ff0eda82f","refresh_token":"3831d006dfa9ef9f4e81502bb105e2c9","uid":1515054,"openid":1551008383,"scope":"user,key,room","expires_in":7519706}
+
+
+
+Date: 24-03-2019
+
+mac= C1:AE:74:CA:88:0C
+uid=1551008383
+lockVersion={"showAdminKbpwdFlag":true,"groupId":10,"protocolVersion":3,"protocolType":5,"orgId":3,"logoUrl":"","scene":2} adminPs=NzUsNzYsNjYsNzUsNjcsNjcsNjYsNzUsNjcsNzUsNQ== 
+unlockKey = MTExLDEwMywxMTEsMTAyLDEwMywxMDUsMTA2LDEwNCwxMDIsMTA5LDMz 
+lockFlagPos=0 
+aesKeyArray=[75,be,5f,66,3b,87,61,dc,19,10,7c,fb,64,53,49,41]
+
+ responseData:{  
+   "lastUpdateDate":1553428583103,
+   "keyList":[  
+      {  
+         "date":1553178592000,
+         "specialValue":4337,
+         "lockAlias":"TTlock1",
+         "keyStatus":"110401",
+         "endDate":0,
+         "noKeyPwd":"3400252",
+         "keyId":3599271,
+         "lockMac":"CE:B2:FE:30:D7:C6",
+         "deletePwd":"",
+         "timezoneRawOffset":21600000,
+         "lockId":1204531,
+         "electricQuantity":0,
+         "adminPwd":"NDEsNDcsNDYsNDIsMzMsNDQsMzIsNDEsNDYsNDYsMTAz",
+         "lockFlagPos":0,
+         "keyboardPwdVersion":4,
+         "aesKeyStr":"87,dc,97,a7,ee,3d,38,54,3f,cc,65,fe,13,26,25,9b",
+         "remoteEnable":2,
+         "lockVersion":{  
+            "showAdminKbpwdFlag":true,
+            "groupId":10,
+            "protocolVersion":3,
+            "protocolType":5,
+            "orgId":3,
+            "logoUrl":"",
+            "scene":2
+         },
+         "userType":"110301",
+         "lockKey":"MzQsMzYsNDMsNDMsNDIsMzgsNDMsMzUsMzksMzMsMTA4",
+         "lockName":"H15_c6d730",
+         "startDate":0,
+         "remarks":"",
+         "keyRight":0
+      },
+      {  
+         "date":1553428259000,
+         "specialValue":4337,
+         "lockAlias":"ttlock2",
+         "keyStatus":"110401",
+         "endDate":0,
+         "noKeyPwd":"4543310",
+         "keyId":3620808,
+         "lockMac":"C1:AE:74:CA:88:0C",
+         "deletePwd":"",
+         "timezoneRawOffset":21600000,
+         "lockId":1365674,
+         "electricQuantity":0,
+         "adminPwd":"NzUsNzYsNjYsNzUsNjcsNjcsNjYsNzUsNjcsNzUsNQ==",
+         "lockFlagPos":0,
+         "keyboardPwdVersion":4,
+         "aesKeyStr":"75,be,5f,66,3b,87,61,dc,19,10,7c,fb,64,53,49,41",
+         "remoteEnable":2,
+         "lockVersion":{  
+            "showAdminKbpwdFlag":true,
+            "groupId":10,
+            "protocolVersion":3,
+            "protocolType":5,
+            "orgId":3,
+            "logoUrl":"",
+            "scene":2
+         },
+         "userType":"110301",
+         "lockKey":"MTExLDEwMywxMTEsMTAyLDEwMywxMDUsMTA2LDEwNCwxMDIsMTA5LDMz",
+         "lockName":"H15_0c88ca",
+         "startDate":0,
+         "remarks":"",
+         "keyRight":0
+      }
+   ]
+}

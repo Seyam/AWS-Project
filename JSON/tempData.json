@@ -1,0 +1,62 @@
+{
+ 
+	"outletId"	:	"Gulshan-1",	
+
+	"allTempSensorList" : [
+	    {
+	      "location": "Fish",
+	      "value": "10.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "location": "Meat",
+	      "value": "7.5°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "location": "Fruit",
+	      "value": "20.5°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "location": "Veg",
+	      "value": "20.1°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "location": "Dairy",
+	      "value": "10.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "location": "Chocolate",
+	      "value": "19.1°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    {
+	      "location": "POS",
+	      "value": "19.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    	    {
+	      "location": "Cosmetics",
+	      "value": "21.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    	    {
+	      "location": "Bakery",
+	      "value": "19.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    	    {
+	      "location": "Entrance",
+	      "value": "25.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    },
+	    	    {
+	      "location": "Freezer",
+	      "value": "3.0°C",
+	      "timestamp" : "29-01-2019 01:56:30"
+	    }
+	]
+}

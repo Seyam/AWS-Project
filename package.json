@@ -1,0 +1,20 @@
+{
+  "name": "shared_home",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "sharedHome.js",
+  "dependencies": {
+    "express-basic-auth": "^1.1.6",
+    "express": "^4.16.4",
+    "mqtt": "^2.18.8",
+    "multer": "^1.4.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

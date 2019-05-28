@@ -1,0 +1,38 @@
+	[{		
+	"devId": "Light 1",
+	"status": "0"
+	},
+	{
+	"devId": "Light 2",
+	"status": "0"
+	},
+	{
+	"devId": "Light 3",
+	"status": "0"
+	},
+	{		
+	"devId": "Light 4",
+	"status": "0"
+	},
+	{
+	"devId": "Light 5",
+	"status": "0"
+	},
+	{
+	"devId": "Light 6",
+	"status": "1"
+	},
+	{		
+	"devId": "Light 7",
+	"status": "1"
+	},
+	{
+	"devId": "Light 8",
+	"status": "1"
+	},
+	{
+	"devId": "Light 9",
+	"status": "1"
+	}]
+
+	  

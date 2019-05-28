@@ -1,0 +1,32 @@
+{  
+   "alarm_list":[  
+      {  
+         "alarm_name":"Gas",
+         "alarmname":"Gas 1",
+         "alarm_id":"ALG001",
+         "warm_status":"0",
+         "room_name":"kitchen"
+      },
+      {  
+         "alarm_name":"Gas",
+         "alarmname":"Gas 2",
+         "alarm_id":"ALG002",
+         "warm_status":"0",
+         "room_name":"kitchen "
+      },
+      {  
+         "alarm_name":"Motion",
+         "alarmname":"Motion 1",
+         "alarm_id":"ALM001",
+         "warm_status":"0",
+         "room_name":"Drawing room"
+      },
+      {  
+         "alarm_name":"Smoke",
+         "alarmname":"Smoke 1",
+         "alarm_id":"ALS001",
+         "warm_status":"0",
+         "room_name":"Store room"
+      }
+   ]
+}

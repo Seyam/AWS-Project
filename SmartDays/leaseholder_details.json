@@ -1,0 +1,43 @@
+{
+    "message": "suceess",
+    "status_code": "200",
+    "renter_data": {
+        "leaseholder_id": 63,
+        "gender":"female",
+        "first_name": "Shamima",
+        "last_name": "Shanta",
+        "contact_no": "01688044665",
+        "email": "sshanta1205@gmail.com",
+        "occupation": "job",
+        "status": 1,
+        "device_id": "15869ac4be594b83",
+        "device_type": 1,
+        "username": "shanta",
+        "photo": "http://192.168.2.107:8000/assets/uploads/leaseholder/Shamima_220222.png",
+        "apartment_id": 1,
+        "apartment_number": "A-101",
+        "booking_id": 3,
+        "booking_status": 1,
+        "booking_from": "2018-04-18",
+        "booking_to": "2020-03-06",
+
+        "company_organization":"DataSoft",
+        "job_title":"IoT Engineer",
+        "permanent_address":"Dhaka",
+        "birthday":"01-01-1990",
+        "national_id":"123456789",
+        "secondary_email":"seyam@gmail.com",
+        "emergency_contact":"0123456789",
+        "photo_in_string":"null",
+
+
+
+
+        "passkey_list": [
+            {
+                "passkey": "1234567",
+                "type": 1
+            }
+        ]
+    }
+}

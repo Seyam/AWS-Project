@@ -1,0 +1,35 @@
+[
+    {
+        "address": "6 Chome-3-3 Toyo, Koto City, Tokyo 135-0016, Japan",
+        "apartment_name": "Hotel East 21 Tokyo",
+        "avg_fare": 150,
+        "apartment_id": "SMQ",
+        "contact": "+81 3-5683-5683",
+        "description": "Situated at the center point of the city",
+        "image_url": "https://live.staticflickr.com/2108/2175251284_fc92081e30_z.jpg",
+        "no_of_room": 20,
+        "rating": "3.5"
+    },
+    {
+        "address": "2 Chome-2-8 Shinjuku, ??? Shinjuku City, Tokyo 160-0022, Japan",
+        "apartment_name": "APA Hotel Shinjuku Gyoen-mae",
+        "avg_fare": 169,
+        "apartment_id": "SMR",
+        "contact": "+81 570-033-622",
+        "description": "Situated at the center point of the city",
+        "image_url": "https://live.staticflickr.com/7309/9638499309_43eb058de5_b.jpg",
+        "no_of_room": 25,
+        "rating": "4"
+    },
+    {
+        "address": "2 Chome-14-16 ?? Tachikawa, Tokyo 190-0012, Japan",
+        "apartment_name": "Tachikawa Grand Hotel",
+        "avg_fare": 149,
+        "apartment_id": "SMS",
+        "contact": "+81 42-525-1121",
+        "description": "Situated at the center point of the city",
+        "image_url": "https://live.staticflickr.com/3447/3350085437_c9d6934b54_z.jpg",
+        "no_of_room": 19,
+        "rating": "5"
+    }
+]

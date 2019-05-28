@@ -1,0 +1,21 @@
+[
+    {	
+    	"image_url": "https://live.staticflickr.com/2108/2175251284_fc92081e30_z.jpg",
+        "facility": "Locker, Hair Dryer, Bath robe",
+        "no_of_bed_available": 1,
+        "no_of_bed_booked": 1,
+        "room": "SMP101",
+        "room_kitchen_no": 1,
+        "room_washroom_no": 1
+    },
+    
+    {
+    	"image_url": "https://live.staticflickr.com/3447/3350085437_c9d6934b54_z.jpg",
+        "facility": "Hair Dryer, Iron",
+        "no_of_bed_available": 1,
+        "no_of_bed_booked": 1,
+        "room": "SMP102",
+        "room_kitchen_no": 1,
+        "room_washroom_no": 1
+    }
+]

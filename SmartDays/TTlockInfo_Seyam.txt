@@ -1,0 +1,29 @@
+Date: 21-03-2019
+
+
+openid: 1551008383
+mac= C1:AE:74:CA:88:0C
+uid = 1551008383
+lockVersion = {"showAdminKbpwdFlag":true,"groupId":10,"protocolVersion":3,"protocolType":5,"orgId":3,"logoUrl":"","scene":2}
+lockFlagPos = 0
+
+adminPs = NTYsNTYsNTgsNDgsNjMsNDksNjMsNjEsNDksNjEsMTE4 
+unlockKey = NjQsNzIsNjksNjUsNzIsNjgsNzIsNzAsNjQsNzEsMTQ=
+aesKeyArray=[dd,05,b8,ac,05,45,e1,42,ec,f3,02,9c,b2,8c,a9,ad]
+
+
+
+Date: 24-03-2019
+
+mac= C1:AE:74:CA:88:0C
+uid=1551008383
+lockVersion={"showAdminKbpwdFlag":true,"groupId":10,"protocolVersion":3,"protocolType":5,"orgId":3,"logoUrl":"","scene":2}
+lockFlagPos=0
+
+adminPs=MTIxLDEyMiwxMTMsMTIwLDEyMSwxMjIsMTIwLDEyMSwxMjMsMTIxLDU1
+unlockKey = NzcsNzIsNzgsNzIsNzIsNzUsNjgsNzksNzUsNzgsMw==
+aesKeyArray=[c7,cb,dc,71,b5,88,c2,23,94,5a,67,db,70,ba,5a,05]
+
+
+
+responseData:{"access_token":"eb614a44cc92ba33afe1d81ff0eda82f","refresh_token":"3831d006dfa9ef9f4e81502bb105e2c9","uid":1515054,"openid":1551008383,"scope":"user,key,room","expires_in":7519706}
